@@ -48,6 +48,7 @@ body{
 .welcome{
     text-align: center;
     padding-top: 50px;
+    
 }
 .content{
     text-align: center;
@@ -75,7 +76,7 @@ body{
     padding: 10px 10px;
     text-align: center;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 10px;
     font-weight: bold;
     display: inline-block;
     margin: 10px;
@@ -88,3 +89,18 @@ body{
   .space{
     margin: 30px;
   }
+.button2 {
+    text-align: center;
+}
+.p1 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+.rpg {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.pic {
+    padding-top: 30px;
+}
